@@ -12,8 +12,11 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="32" alt="" /> About me
 
-- I work in public health and build software that helps with research: searching the literature, screening, and drafting papers where every claim links back to a source.
-- I also build Claude Code skills, MCP servers and small tools for events and data work.
+Dr. Ankit Raj is a public health enthusiast with a keen interest in epidemiology, digital health, health systems research, and healthcare innovation.
+
+Currently developing an automated AI-powered tool to help scientific research teams search the literature, extract verifiable evidence, and synthesize findings, with human oversight at every stage of the process.
+
+He is passionate about leveraging artificial intelligence, digital technologies, and data analytics to advance scientific research, strengthen healthcare delivery, and improve health outcomes.
 
 ## Tools I use
 

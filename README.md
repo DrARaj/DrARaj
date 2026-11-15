@@ -36,7 +36,7 @@ A Claude Code skill that keeps AI writing tells out of your text. It turns every
 
 ```sh
 claude plugin marketplace add DrARaj/ultimate-humanizer
-claude plugin install ultimate-humanizer@drarj
+claude plugin install ultimate-humanizer@draraj
 ```
 
 ## GitHub activity

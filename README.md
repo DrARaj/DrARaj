@@ -28,9 +28,16 @@ He is passionate about leveraging artificial intelligence, digital technologies,
 
 ## Featured project
 
-| Project | What it is |
-|---|---|
-| [ultimate-humanizer](https://github.com/DrARaj/ultimate-humanizer) | A Claude Code skill that keeps AI writing tells out of your text, with a lint script for the mechanical ones. |
+<a href="https://github.com/DrARaj/ultimate-humanizer"><img src="https://raw.githubusercontent.com/DrARaj/ultimate-humanizer/main/assets/banner.png" alt="Ultimate Humanizer: delve, tapestry, pivotal and other AI writing tells struck through" width="100%" /></a>
+
+A Claude Code skill that keeps AI writing tells out of your text. It turns every pattern in Wikipedia's "Signs of AI writing" field guide into a numbered rule, and ships a lint script that catches the mechanical ones.
+
+<a href="https://github.com/DrARaj/ultimate-humanizer"><img src="https://img.shields.io/github/stars/DrARaj/ultimate-humanizer?style=flat-square&logo=github" alt="Ultimate Humanizer stars" /></a> <a href="https://github.com/DrARaj/ultimate-humanizer/releases"><img src="https://img.shields.io/github/v/release/DrARaj/ultimate-humanizer?style=flat-square&color=D97757" alt="Ultimate Humanizer latest release" /></a>
+
+```sh
+claude plugin marketplace add DrARaj/ultimate-humanizer
+claude plugin install ultimate-humanizer@drarj
+```
 
 ## GitHub activity
 
